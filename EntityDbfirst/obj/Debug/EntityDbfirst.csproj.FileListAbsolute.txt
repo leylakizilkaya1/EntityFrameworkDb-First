@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\bin\Debug\EntityDbfirst.exe.config
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\bin\Debug\EntityDbfirst.exe
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\bin\Debug\EntityDbfirst.pdb
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\obj\Debug\EntityDbfirst.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\obj\Debug\EntityDbfirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\obj\Debug\EntityDbfirst.Form1.resources
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\obj\Debug\EntityDbfirst.Properties.Resources.resources
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\obj\Debug\EntityDbfirst.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\obj\Debug\EntityDbfirst.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\obj\Debug\EntityDbfirst.csproj.CopyComplete
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\obj\Debug\EntityDbfirst.exe
+C:\Users\hp\Desktop\EntityDbfirst\EntityDbfirst\obj\Debug\EntityDbfirst.pdb
